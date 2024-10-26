@@ -67,7 +67,7 @@ El juego del ahorcado consiste en adivinar una palabra oculta, letra por letra. 
 
 4. La aplicación mostrará el progreso y te indicará si has ganado o perdido.
 
-   ![Captura de pantalla de la aplicación fin ](src/resources/Juegofin.png)
+   ![Captura de pantalla de la aplicación fin ](src/resources/JuegoFin.png)
 
 ## Estructura del Código
 
