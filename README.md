@@ -59,15 +59,15 @@ El juego del ahorcado consiste en adivinar una palabra oculta, letra por letra. 
 2. La aplicación abrirá una ventana de bienvenida. Haz clic en "Iniciar Juego" para comenzar a jugar.
 
    
-   ![Captura de pantalla de la aplicación inicio](src/resources/Juego inicio.png)
+   ![Captura de pantalla de la aplicación inicio](src/resources/Juegoinicio.png)
 
 3. Introduce una letra o la palabra completa en el campo de texto y haz clic en "Probar" o presiona la tecla "Enter".
 
-   ![Captura de pantalla de la aplicación medio](src/resources/Juego medio.png)
+   ![Captura de pantalla de la aplicación medio](src/resources/Juegomedio.png)
 
 4. La aplicación mostrará el progreso y te indicará si has ganado o perdido.
 
-   ![Captura de pantalla de la aplicación fin ](src/resources/Juego fin.png)
+   ![Captura de pantalla de la aplicación fin ](src/resources/Juegofin.png)
 
 ## Estructura del Código
 
